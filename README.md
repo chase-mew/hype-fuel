@@ -14,7 +14,7 @@ broadcasts it, taking their USDC and delivering native HYPE in the same transact
 | App | https://hypefuel.me |
 | API | https://api.hypefuel.me |
 | Contract | [`0x42b06b1d9a07Fc3925C518dbf9475E7cA80DC8DF`](https://hyperevmscan.io/address/0x42b06b1d9a07Fc3925C518dbf9475E7cA80DC8DF) |
-| Implementation | [`0xA11f3c51b14240e374ec1944DB27C46BBB891C5F`](https://hyperevmscan.io/address/0xA11f3c51b14240e374ec1944DB27C46BBB891C5F) |
+| Implementation | [`0xDF4FdA0F992D7E0Ed73d81726bAD854214eA373e`](https://hyperevmscan.io/address/0xDF4FdA0F992D7E0Ed73d81726bAD854214eA373e) |
 | Chain | HyperEVM mainnet (999) |
 
 The contract address is a proxy and is the one to integrate against; it does not change across

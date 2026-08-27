@@ -4,11 +4,15 @@
     "HypeFuel": {
       "comment": "Interact with `address`. It is an ERC-1967 proxy, so it survives upgrades; `implementation` only matters when verifying one.",
       "address": "0x42b06b1d9a07Fc3925C518dbf9475E7cA80DC8DF",
-      "implementation": "0xA11f3c51b14240e374ec1944DB27C46BBB891C5F",
+      "implementation": "0xDF4FdA0F992D7E0Ed73d81726bAD854214eA373e",
+      "previousImplementation": "0xA11f3c51b14240e374ec1944DB27C46BBB891C5F",
       "proxyDeploymentTransaction": "0xbc4f2d367e3b30e15be68438ae116a2e4248580f78cbc24636782233d6d3f099",
-      "implementationDeploymentTransaction": "0xb156574a00e66e4420bbe210eea85c2d979808eccde546fc08740a864d2e64df",
+      "implementationDeploymentTransaction": "0x039f2e484ac316da0a9b5e95b36a7d9114cb739df9d56b9f59a7fcc78b50931c",
+      "upgradeTransaction": "0x877afdcc9d67aef065bae9f06c3f578d832b3aaaec47ecae40c2d5673c4e8333",
       "deploymentBlock": 41690545,
-      "implementationDeploymentGasUsed": 2454169,
+      "implementationDeploymentBlock": 44298366,
+      "upgradeBlock": 44298417,
+      "implementationDeploymentGasUsed": 2473745,
       "owner": "0x807571aA5E751b8D6b56b4D652EeE51c3DF55540",
       "usdc": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
       "initializerArgs": {
